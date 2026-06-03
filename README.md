@@ -11,5 +11,15 @@
 4. Authored this README documentation directly to showcase the completed environment setup.
 
 ## 3. Friction Points & Solutions
-* **Issue:** I initially found the technical terminology (IDE, extensions, repositories) outside my usual digital marketing and AI video workflow.
-* **Solution:** Instead of getting bogged down, I used high-level judgment. I located the hidden extensions panel using keyboard shortcuts, verified the official Anthropic publisher to avoid copycats, and bypassed terminal friction by initializing the README directly within GitHub's web interface. This allowed me to execute the core objective with speed and self-reliance.
+
+* **Issue 1: Workspace UI Deviation**
+  * **Friction:** Upon launching Cursor, the default landing interface was configured to a clean "Home/Agent" state, which visually omitted the standard side-navigation utility panel and the extensions marketplace icon found in standard setup guides.
+  * **Solution:** Leveraged system hotkeys (`Ctrl + Shift + X`) and top-level menu routing (`View -> Extensions`) to dynamically force the marketplace panel open without stalling the deployment.
+
+* **Issue 2: Open Marketplace Ambiguity**
+  * **Friction:** A search for "Claude" yielded dozens of unofficial, third-party wrapper extensions and copycats, introducing a risk of installing suboptimal or unverified tools.
+  * **Solution:** Executed strict quality control by cross-referencing developers, bypassing the clutter, and isolating the official verified asset published directly by Anthropic.
+
+* **Issue 3: High-Technical Friction Workflow**
+  * **Friction:** Standard documentation workflows assume a deep engineering background involving local Git configurations, credential managers, and terminal command execution lines that can add unnecessary friction to a fast marketing sprint.
+  * **Solution:** Used Gemini as an active technical collaborator to decode the environment layout, map out the architecture, and strategically pivot to deploying the README documentation directly via GitHub's cloud interface. This successfully bypassed local terminal bottlenecks while flawlessly achieving the core operational objective.
