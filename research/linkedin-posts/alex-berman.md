@@ -1,5 +1,3 @@
-# Alex Berman LinkedIn Posts
-
 ## Post 1
 
 Link:
