@@ -117,7 +117,7 @@ Former Airbnb product leader and creator of Lenny's Newsletter. Covers product-l
 
 ---
 
-Expert 10: Chris Orlob
+## Expert 10: Chris Orlob
 
 Link:
 https://www.youtube.com/@ChrisOrlob
