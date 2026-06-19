@@ -1,5 +1,3 @@
-# Chris Walker LinkedIn Posts
-
 ## Post 1
 
 Link: https://www.linkedin.com/posts/chriswalker171_life-growth-share-7470829713872052224-GgFB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqs79EBOsuyLSthrSbB7qql0AfKQgbVmOg
